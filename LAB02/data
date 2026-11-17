@@ -1,1 +1,27 @@
+# Te dhenat e regjistruara nga matjet laboratorike (Data: 11.11.2026)
+# Pjesemarresit: Kejsi Seferi, Vjorisa Cani, Memo Kojdheli, Andja Milloshi, Azem Elezi
 
+# Eksperimenti 1: Analiza e pjestuesit te tensionit
+V_in_exp1 = 15.35  # V
+V_out_exp1 = 7.50  # V
+R1_exp1 = 7.55     # kOhm
+R2_exp1 = 7.78     # kOhm
+
+# Parashikimi teorik per tensionin ne dalje (Eksperimenti 1)
+V_out_teorik = V_in_exp1 * (R2_exp1 / (R1_exp1 + R2_exp1))
+print(f"Eksperimenti 1 - V_out Teorik: {V_out_teorik:.2f} V (Vlera e matur: {V_out_exp1} V)")
+
+# Eksperimenti 2: Analiza e qarkut te hapur (pa ngarkese)
+R1_exp2 = 3.27     # MOhm
+R2_exp2 = 3.30     # MOhm
+V_in_exp2 = 6.82   # V (ose V_total = 15.77 V ne burim)
+V_out_exp2 = 6.71  # V
+
+# Eksperimenti 3: Sjellja e qarkut me rezistence te vendosur ne ngarkese (R_L)
+# Rasti i pare
+R_L_1 = 3.30       # MOhm
+V_exp3_rasti1 = 7.76 # V
+
+# Rasti i dyte
+R_L_2 = 2.34       # MOhm
+V_exp3_rasti2 = 7.71 # V
