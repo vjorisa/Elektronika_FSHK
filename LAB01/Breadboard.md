@@ -2,7 +2,7 @@
 **Titulli i Eksperimentit:** Studimi dhe Montimi i Qarqeve në Breadboard  
 **Lënda:** Hyrje në Elektronikë Viti III, Fizikë dhe Shkenca kompjuterike 
 **Pedagogu:** Prof. Asoc. Dr. Gerti Xhixha  Dr. Ervin Kafexhiu
-**Studenti/ja:** Vjorisa Cani  
+**Punoi:** Vjorisa Cani  
 
 ---
 
